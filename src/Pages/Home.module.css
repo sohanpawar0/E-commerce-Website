@@ -1,0 +1,24 @@
+.content{
+    text-align: center;
+    width: 700px;
+    margin-left: 20%;
+
+}
+.list{
+    list-style-type: none;
+    
+}
+.items{
+    
+    font-size: 20px;
+    display: flex;
+    justify-content:space-between;
+    padding: 10px;
+    border-style:inset ;
+    /* display:table; */
+
+}
+.items span{
+    border-bottom: 5px;
+    border-color: black;
+}

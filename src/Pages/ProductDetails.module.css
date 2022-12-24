@@ -1,0 +1,23 @@
+.details img{
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+.details {
+    overflow: auto;
+}
+.price {
+    font-weight: bold;
+}
+.title{
+    text-align: center;
+    padding-top: 20px;
+}
+.scrollableimg {
+    height: 300px;
+    width: 400px;
+}
+.reviews{
+    margin: 20px;
+}

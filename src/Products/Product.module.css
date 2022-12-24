@@ -1,0 +1,51 @@
+
+.section h1{
+    color: black;
+    text-align: center;
+    font-size: 20px bold;
+    padding: 20px;
+    font-size: 50px;
+    font-family: emoji
+}
+.list{
+    display: flex;
+    justify-content: space-evenly;
+    width: 800px;
+    flex-wrap: wrap;
+    list-style-type: none;
+    align-items: center;
+    padding: 10px;
+}
+.item {
+    width: 300px;
+    margin: 20px;
+    align-items: center;
+    color: white;
+}
+.labeltitle{
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    color: black;
+    margin: 10px;
+}
+.labeltitle input{
+    width: 40px;
+    height: 20px;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+}
+.labeltitle button{
+    width: 100px;
+    height: 30px;
+    background-color: #10e1ba;
+    font-weight: bold;
+    font-size: 16px;
+}
+.img{
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    
+}

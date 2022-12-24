@@ -1,0 +1,16 @@
+.about img{
+    float: left;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin: 40px;
+}
+.about h1{
+    text-align: center;
+    padding: 20px;
+}
+.about p{
+    line-height: 30px;
+    padding: 10px;
+    margin: 30px;
+}
